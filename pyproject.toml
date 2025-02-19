@@ -1,0 +1,15 @@
+[project]
+name = "semantic_cache_and_RAG"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "asyncio>=3.4.3",
+    "numpy>=2.2.3",
+    "ollama>=0.4.7",
+    "pytest>=8.3.4",
+    "requests>=2.32.3",
+]
+[tool.ruff.lint]
+ignore = ["E712"]
