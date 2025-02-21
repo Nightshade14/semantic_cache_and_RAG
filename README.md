@@ -19,7 +19,7 @@ An efficient implementation of  the following:
 - Cache hit optimization for frequently asked questions
 
 ### 3. Implementing Vector Store from Scratch
-- Priority queue implementation for top-k retrieval (Time Complexity: O(n log k))
+- Priority queue implementation for top-k retrieval
 
 
 ## 🛠️ Technologies Used
