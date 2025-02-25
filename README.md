@@ -35,3 +35,10 @@ curl -LsSf https://astral.sh/uv/install.sh | sh
 git clone https://github.com/yourusername/semantic_cache_and_RAG.git
 cd semantic_cache_and_RAG
 uv sync
+```
+
+## 📝 Testing
+
+```bash
+uv run pytest
+```
