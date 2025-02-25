@@ -40,5 +40,5 @@ uv sync
 ## 📝 Testing
 
 ```bash
-uv run pytest
+uv run pytest .
 ```
