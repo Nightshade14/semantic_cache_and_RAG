@@ -23,7 +23,7 @@ An efficient implementation of  the following:
 
 
 ## 🛠️ Technologies Used
-- FAISS for vector similarity search
+- FAISS for vector similarity search (try with spotify's voyager)
 - LangChain for document processing
 - Python's heapq for priority queue implementation
 - NumPy for vector operations
