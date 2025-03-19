@@ -1,4 +1,4 @@
-# Vector Store from Scratch, Semantic Caching System, FAISS RAG
+# Vector Store from Scratch, Semantic Caching System, FAISS and Spotify's Voyager RAG
 
 An efficient implementation of  the following:
 - Vector Store from scratch
