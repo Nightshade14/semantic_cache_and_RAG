@@ -37,6 +37,8 @@ cd semantic_cache_and_RAG
 uv sync
 ```
 
+## ToDo
+- Performance Testing on SIFT dataset
 ## 📝 Testing
 
 ```bash
