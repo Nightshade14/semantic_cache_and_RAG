@@ -41,7 +41,7 @@ class Vectorstore:
         if len(vector_db) < k:
             end = len(vector_db)
 
-        results = heapq.nsmallest(end, vector_db, key=lambda x: x[0])
+        results = heapq.nsmallest(end, vector_db)
 
         return [
             VectorSearchResult(doc=result[1], score=result[0]) for result in results
