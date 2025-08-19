@@ -2,7 +2,7 @@
 
 An efficient implementation of  the following:
 - Vector Store from scratch
-- Semantic Caching for minimizing LLM API calls
+- Semantic Caching for minimizing LLM calls
 - RAG with FAISS as in-memory vector store
 - Experimenting with FAISS indices
 
